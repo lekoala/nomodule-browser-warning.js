@@ -1,23 +1,20 @@
 {
-  "name": "modular-behaviour.js",
+  "name": "nomodule-browser-warning.js",
   "version": "1.0.0",
-  "description": "Attach functions or jQuery plugins to your html nodes",
-  "main": "modular-behaviour.js",
+  "description": "Display a warning message for browser not supporting js modules",
+  "main": "nomodule-browser-warning.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lekoala/modular-behaviour.js"
+    "url": "https://github.com/lekoala/nomodule-browser-warning.js"
   },
   "keywords": [
-    "html",
-    "binding",
-    "javascript",
     "DOM",
-    "jQuery",
-    "modular",
-    "behaviour"
+    "browser",
+    "warning",
+    "nomodule"
   ],
   "author": "LeKoala",
   "license": "MIT"
