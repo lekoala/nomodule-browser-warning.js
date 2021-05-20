@@ -24,7 +24,7 @@ Or use with a cdn
 
 ```html
 <head>
-<script src="https://cdn.jsdelivr.net/gh/lekoala/nomodule-browser-warning.js/nomodule-browser-warning.min.jss" nomodule defer id="nomodule-browser-warning"></script>
+<script src="https://cdn.jsdelivr.net/gh/lekoala/nomodule-browser-warning.js/nomodule-browser-warning.min.js" nomodule defer id="nomodule-browser-warning"></script>
 </head>
 ```
 
