@@ -20,6 +20,14 @@ ignore this line (and therefore keep your lighthouse results up ;-) ).
 </head>
 ```
 
+Or use with a cdn
+
+```html
+<head>
+<script src="https://cdn.jsdelivr.net/gh/lekoala/nomodule-browser-warning.js/nomodule-browser-warning.min.jss" nomodule defer id="nomodule-browser-warning"></script>
+</head>
+```
+
 ## How to configure
 
 The script support the following data-attributes:
